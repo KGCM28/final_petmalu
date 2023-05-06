@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44425950995",
+    "firebase_url": "https://petmalu-dating-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "petmalu-dating-app",
+    "storage_bucket": "petmalu-dating-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44425950995:android:14b42702f92ab0bdb48ce6",
+        "android_client_info": {
+          "package_name": "com.example.petmalu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44425950995-b3nkgqf6rf07c5qscvo7vmng9q0eqdjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5hN-2IUVdhR1IxI7iNBYtkesrxuYqOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44425950995-b3nkgqf6rf07c5qscvo7vmng9q0eqdjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44425950995-1b9m6s6gkv37vonpit65vovb4n8kd65u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petmalu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
